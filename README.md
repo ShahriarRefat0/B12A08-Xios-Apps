@@ -1,3 +1,13 @@
+<!-- PROJECT SHIELDS -->
+<!-- You can customize these badges if you deploy your project or add more integrations -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ShahriarRefat0/B12A08-Xios-Apps/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/npm?color=blue)](https://www.npmjs.com/)
+[![GitHub stars](https://img.shields.io/github/stars/ShahriarRefat0/B12A08-Xios-Apps?style=social)](https://github.com/ShahriarRefat0/B12A08-Xios-Apps/stargazers)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-Visit-blue)](https://xios-io-apps.netlify.app/)
+
+--- 
+
 # 🦸‍♂️ Xios-IO Apps
 
 A modern **React + Vite** web application for discovering, previewing, and simulating app installations — inspired by app stores, built for performance and simplicity.
@@ -52,8 +62,38 @@ public/
 └── logo.png  
 
 ---  
+## 🧩 Live Screenshots  
 
-🧑‍💻 Author
+
+
+---
+
+## 🛠 Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/ShahriarRefat0/B12A08-Xios-Apps.git
+cd B12A08-Xios-Apps 
+```  
+---  
+## 📜 License  
+
+---
+
+If you want, I can generate:
+
+✅ A **badges section with build/deployment statuses**  
+✅ **Screenshots or GIFs** inserted via markdown  
+✅ A **Project roadmap** section  
+✅ A **Usage guide** with screenshots
+
+Just tell me what you want next! 🔥
+::contentReference[oaicite:1]{index=1}  
+
+---  
+
+## 🧑‍💻 Author
 
 👤 Shahriar Refat
 🔗 [GitHub Profile](https://github.com/ShahriarRefat0)
