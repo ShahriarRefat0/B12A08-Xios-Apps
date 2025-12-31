@@ -64,6 +64,8 @@ public/
 ---  
 ## 🧩 Live Screenshots  
 
+<img width="2256" height="4182" alt="modified_image (2)" src="https://github.com/user-attachments/assets/6da8ccc6-a453-40f6-8aa9-625390224797" />
+<img width="1117" height="666" alt="Screenshot 2025-12-31 120220" src="https://github.com/user-attachments/assets/68963a5a-3a4d-4039-8487-9f8672d074a5" />
 
 
 ---
